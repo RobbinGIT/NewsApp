@@ -15,3 +15,7 @@ The user is able to;
 * Select a news source and see all news articles from the selected news source
 * See the image, description and the time a news article was created
 * Click on an article and read the full article on the source website
+
+## Requirements
+
+* This program requires python3.+ installed, a guide on how to install python on various platforms can be found [here](https://www.python.org/)
