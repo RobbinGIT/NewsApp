@@ -34,7 +34,7 @@ To user the appliction, first make sure you have installed the required modules 
 * Flask
 * HTML5 & CSS
 * Bootstrap
-* Python 3.8
+* Python 3.9
 * Heroku
 * The following external python libraries were used in this project:
     - os (inbuilt)
