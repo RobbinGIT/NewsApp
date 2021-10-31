@@ -1,0 +1,20 @@
+body {
+    background-image :linear-gradient(rgba(17, 107, 192, 0.685), rgba(12, 134, 155, 0.616)),url(./news.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed; 
+}
+
+#cards {
+    padding-bottom: 1%;
+    position: relative;
+    top: 0;
+    bottom: 0;
+    background: rgba(6, 121, 141, 0.651);
+}
+
+
+.navbar {
+    background-color: #0a5d6b;
+}
