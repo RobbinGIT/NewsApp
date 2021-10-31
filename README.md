@@ -44,3 +44,9 @@ To user the appliction, first make sure you have installed the required modules 
 
 * No known bugs
 Be sure to report more bugs by contacting me.
+
+## Support and Further contact details
+
+* You can provide feedback or raise any issues/ bugs through the following means:
+robbingithimbo@gmail.com
+
