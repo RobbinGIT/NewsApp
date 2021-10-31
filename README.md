@@ -50,3 +50,6 @@ Be sure to report more bugs by contacting me.
 * You can provide feedback or raise any issues/ bugs through the following means:
 robbingithimbo@gmail.com
 
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
