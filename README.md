@@ -54,4 +54,4 @@ robbingithimbo@gmail.com
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-Copyright © 2021 
+Copyright © 2021   [ROBBIN .M. GITHIMBO](https://github.com/RobbinGIT)
