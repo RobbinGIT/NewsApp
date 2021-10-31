@@ -39,3 +39,8 @@ To user the appliction, first make sure you have installed the required modules 
 * The following external python libraries were used in this project:
     - os (inbuilt)
     - unittest
+
+## Known Bugs
+
+* No known bugs
+Be sure to report more bugs by contacting me.
